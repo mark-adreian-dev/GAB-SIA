@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemIntegrationDesign_LabExam", "SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam.csproj", "{4B82D406-87B8-4D59-B316-C9FA5A1CCBBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B82D406-87B8-4D59-B316-C9FA5A1CCBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B82D406-87B8-4D59-B316-C9FA5A1CCBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B82D406-87B8-4D59-B316-C9FA5A1CCBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B82D406-87B8-4D59-B316-C9FA5A1CCBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A6AA4B4-820E-4762-93AC-7A614A588B66}
+	EndGlobalSection
+EndGlobal

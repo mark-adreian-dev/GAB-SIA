@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RabbitMQ.Client.OAuth2</name>
+    </assembly>
+    <members>
+        <member name="T:RabbitMQ.Client.OAuth2.OAuth2Client">
+            Default implementation of IOAuth2Client. It uses Client_Credentials OAuth2 flow to request a
+            token. The basic constructor assumes no scopes are needed only the OAuth2 Client credentiuals.
+            The additional constructor accepts a Dictionary with all the request parameters passed onto the
+            OAuth2 request token.
+        </member>
+    </members>
+</doc>

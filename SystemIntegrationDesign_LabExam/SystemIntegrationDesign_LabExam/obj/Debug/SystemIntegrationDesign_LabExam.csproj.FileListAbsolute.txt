@@ -1,0 +1,76 @@
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\SystemIntegrationDesign_LabExam.exe.config
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\SystemIntegrationDesign_LabExam.exe
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\SystemIntegrationDesign_LabExam.pdb
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\RabbitMQ.Client.dll
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\RabbitMQ.Client.OAuth2.dll
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Buffers.dll
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Memory.dll
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Net.Http.Json.dll
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Text.Json.dll
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Threading.Channels.dll
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.ValueTuple.dll
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\RabbitMQ.Client.xml
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\RabbitMQ.Client.OAuth2.xml
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Buffers.xml
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Memory.xml
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Net.Http.Json.xml
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Text.Json.xml
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Threading.Channels.xml
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.ValueTuple.xml
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIntegrationDesign_LabExam.csproj.AssemblyReference.cache
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIntegrationDesign_LabExam.Properties.Resources.resources
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIntegrationDesign_LabExam.csproj.GenerateResource.cache
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIntegrationDesign_LabExam.csproj.CoreCompileInputs.cache
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIn.F4D2B16B.Up2Date
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIntegrationDesign_LabExam.exe
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIntegrationDesign_LabExam.pdb
+C:\Users\marka\Desktop\Mos Studio\Coding Projects\C# Workspace\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIntegrationDesign_LabExam.Main.resources
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\SystemIntegrationDesign_LabExam.exe.config
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\SystemIntegrationDesign_LabExam.exe
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\SystemIntegrationDesign_LabExam.pdb
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\RabbitMQ.Client.dll
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\RabbitMQ.Client.OAuth2.dll
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Buffers.dll
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Memory.dll
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Net.Http.Json.dll
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Text.Json.dll
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Threading.Channels.dll
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.ValueTuple.dll
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\RabbitMQ.Client.xml
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\RabbitMQ.Client.OAuth2.xml
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Buffers.xml
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Memory.xml
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Net.Http.Json.xml
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Text.Json.xml
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Threading.Channels.xml
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\System.ValueTuple.xml
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIntegrationDesign_LabExam.csproj.AssemblyReference.cache
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIntegrationDesign_LabExam.Main.resources
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIntegrationDesign_LabExam.Properties.Resources.resources
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIntegrationDesign_LabExam.csproj.GenerateResource.cache
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIntegrationDesign_LabExam.csproj.CoreCompileInputs.cache
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIn.F4D2B16B.Up2Date
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIntegrationDesign_LabExam.exe
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\obj\Debug\SystemIntegrationDesign_LabExam.pdb
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marka\Desktop\Gab Pantaleon\SystemIntegrationDesign_LabExam\SystemIntegrationDesign_LabExam\bin\Debug\Newtonsoft.Json.xml
